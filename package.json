@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mongodb": "^4.6.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "mongo-db-crud",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "ranjankumar",
+  "license": "ISC",
+  "description": ""
+}
